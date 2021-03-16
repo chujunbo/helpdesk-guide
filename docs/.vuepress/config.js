@@ -49,9 +49,9 @@ module.exports = {
                   ['enhance/dsplus/ddvmt','办公视频会议'],
                   ['/express/star/zgbx','耗材自购与其他报销补贴'],
                   ['/enhance/ie/master','OA/ERP系统IE平台维护'],
-                  ['/express/star/zic','供应链级的资产管理'],
-                  ['/express/notice/support','如何优化桌面维护工作？'],
-                  ['/express/talk/iandc','漫谈ITIL及CISSP'],
+                  ['/express/star/zic','供应链资产管理知识储备'],
+                  ['/enhance/zd/mac-remote','Mac-Win跨平台建立远程桌面'],
+                  ['/enhance/zd/mac-re','Mac重装与维护'],
                   ['/zjjy/rhjy','入行桌维章节结语']
                 ]
               },
@@ -60,11 +60,23 @@ module.exports = {
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
-                  ['/express/talk/gan-wei-man-gs','岗位手册编写格式'],
-                  ['/express/talk/gan-wei-man','甲方公司岗位工作手册'],
-                  ['/express/talk/ji-du-bao-gao','驻场IT运维服务季度报告']
+                  ['/express/bid/gan-wei-man-gs','岗位手册编写格式'],
+                  ['/express/bid/gan-wei-man','甲方公司岗位工作手册'],
+                  ['/express/bid/ji-du-bao-gao','驻场IT运维服务季度报告']       
                 ]
-              },   
+              },
+              {
+                title: '一些经验与想法（2020）',   // 必要的
+                collapsable: false, // 可选的, 默认值是 true,
+                sidebarDepth: 1,    // 可选的, 默认值是 1
+                children: [
+                  ['/express/notice/support','如何优化桌面维护工作？'],
+                  ['/express/talk/zufang','致同在社会租房屋檐下打工的我们'],
+                  ['/express/talk/hr','人力资源与面试者'],
+                  ['/express/secure/bgx','业务故障类排查手法'],
+                  ['/express/talk/iandc','关于ITIL及CISSP的想法']
+                ]
+              },    
               {
                 title: '电话与主机网络维护',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
@@ -89,8 +101,7 @@ module.exports = {
                   ['/express/script/bat.md','Batch批量可并发业务编程'],
                   ['/express/secure/trojan','信息病毒防控录'],
                   ['/express/secure/blue','永恒之蓝再处理'],
-                  ['/express/secure/fwmreg','防火墙邮件拦截与杀软残留项清除'],
-                  ['/express/secure/bgx','业务故障类排查手法']
+                  ['/express/secure/fwmreg','防火墙邮件拦截与杀软残留项清除']
                 ]
               },         
               {
