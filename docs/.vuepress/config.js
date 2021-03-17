@@ -70,11 +70,12 @@ module.exports = {
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
-                  ['/express/notice/support','如何优化桌面维护工作？'],
                   ['/express/talk/zufang','致同在社会租房屋檐下打工的我们'],
                   ['/express/talk/hr','人力资源与面试者'],
+                  ['/express/notice/ti-analysis','培训机构分析报告（TI Analysis）'],
                   ['/express/secure/bgx','业务故障类排查手法'],
-                  ['/express/talk/iandc','关于ITIL及CISSP的想法']
+                  ['/express/talk/iandc','关于ITIL及CISSP的想法'],
+                  ['/express/notice/support','如何优化桌面维护工作？']
                 ]
               },    
               {
@@ -101,7 +102,8 @@ module.exports = {
                   ['/express/script/bat.md','Batch批量可并发业务编程'],
                   ['/express/secure/trojan','信息病毒防控录'],
                   ['/express/secure/blue','永恒之蓝再处理'],
-                  ['/express/secure/fwmreg','防火墙邮件拦截与杀软残留项清除']
+                  ['/express/secure/fwmreg','防火墙邮件拦截与杀软残留项清除'],
+                  ['/express/secure/cunchu','存储知识储备']
                 ]
               },         
               {
