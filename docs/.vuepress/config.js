@@ -51,7 +51,7 @@ module.exports = {
                   ['/enhance/ie/master','OA/ERP系统IE平台维护'],
                   ['/express/star/zic','供应链资产管理知识储备'],
                   ['/enhance/zd/mac-remote','Mac-Win跨平台建立远程桌面'],
-                  ['/enhance/zd/mac-re','Mac重装与维护'],
+                  ['/enhance/zd/mac-re','苹果重装与个人信息删除'],
                   ['/zjjy/rhjy','入行桌维章节结语']
                 ]
               },
