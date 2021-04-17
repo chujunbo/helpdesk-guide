@@ -67,7 +67,7 @@ module.exports = {
               },
               {
                 title: '致社会租房屋檐下打工的我们',   // 必要的
-                collapsable: false, // 可选的, 默认值是 true,
+                collapsable: false, 
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
                   ['/express/talk/zufang','社会租房记录'],
