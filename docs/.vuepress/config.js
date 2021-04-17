@@ -66,7 +66,7 @@ module.exports = {
                 ]
               },
               {
-                title: '致同在社会租房屋檐下打工的我们',   // 必要的
+                title: '致社会租房屋檐下打工的我们',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
