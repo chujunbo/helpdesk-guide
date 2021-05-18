@@ -1,5 +1,29 @@
 # 打印机安装与调试
 
+## 惠普多功能打印机基础安装
+
+根据说明书提示进入 http://123.hp.com 网页下载打印机驱动，在网页里搜索相应打印机驱动进行安装。
+
+安装步骤：
+
+1. .net 4.6.2 为必装项
+2. HPEasyStart_12_8_9 （在线方式）
+3. Full_Webpack-52.1.4859-LJM232-M237_UWWL_Full_Webpack （离线完整包）
+
+1或2任选其一安装，安装过程中如遇证书链失效以相关证书错误，需要导入MicrosoftRootCertificateAuthority2011 证书。
+
+安装完成后，即可测试打印、扫描、复印等效果。
+
+![share.jpg](https://i.loli.net/2021/05/18/k5vbgxCZrzFG6RA.jpg)
+
+详情图
+
+![share1.jpg](https://i.loli.net/2021/05/18/RBJMGcnsI6xTwWP.jpg)
+
+附：单页文件扫描设置，勾选“将页面分离为单独的文档”，默认是连续的。
+
+![image-20210518174203682.png](https://i.loli.net/2021/05/18/kxitXPsa3vrLcy9.png)
+
 ## 网络打印机安装
 
 将打印机插入网口，配置好ip地址
@@ -58,7 +82,8 @@ windows无法打开添加打印机，打开服务选项，找到Print Spooler这
 
 ![image-20210302212010707.png](https://i.loli.net/2021/03/02/BVfp1rMyQeZg58Y.png)
 
-若还存在其他问题需找品牌相关售后进行维修。
+
+顺便说一句，彩色打印机颜色缺失或偏淡可以更换墨盒以及必要时选择清洗打印头，若还存在其他问题需找品牌相关售后进行维修。
 
 ### 账户访问共享打印机
 
@@ -81,7 +106,6 @@ windows无法打开添加打印机，打开服务选项，找到Print Spooler这
 选择连接，安装好打印机驱动，这样在打印文档时，就能选择远程的共享打印机了。
 
 ![image-20201208201433319.png](https://i.loli.net/2020/12/08/Rf4cJj8w7VtZQ5O.png)
-
 
 
 ## 打印机异常排查
