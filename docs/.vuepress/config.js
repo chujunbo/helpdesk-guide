@@ -90,7 +90,8 @@ module.exports = {
                   ['/express/net/xdzhg','由园区停电账号认证报错引发的思考'],
                   ['/enhance/net/neta','彻底理清IP地址、子网掩码、网关'],
                   ['/enhance/net/dlyfw','多级SOHO路由访问原理'],
-                  ['/enhance/net/dlsw','代理上网异常排查问题']
+                  ['/enhance/net/dlsw','代理上网异常排查问题'],
+                  ['/express/net/otr.md','其他上网问题']
                 ]
               },   
               {
