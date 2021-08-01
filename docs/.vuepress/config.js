@@ -84,6 +84,7 @@ module.exports = {
                 children: [
                   ['/zjjy/dhkp','主机网络维护与信息安全章节说明'],
                   ['/enhance/net/bgsdhbs','办公室电话接入部署'],
+                  ['/enhance/net/bq','搬迁遇到的上网问题'],
                   ['/enhance/net/sghdhyl','由施工后转向溯源电话运作原理'],
                   ['/enhance/net/netz','网络设备组装发展过程略'],
                   ['/express/net/jftx','办公网络接入层运营'],
