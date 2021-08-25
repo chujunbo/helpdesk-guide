@@ -7,7 +7,7 @@ module.exports = {
     ],
     plugins: [
       // https://vuepress.github.io/zh/plugins 插件下载
-      ['@vuepress/plugin-back-to-top'],//安装不了插件,建议非全局安装vue      
+      ['@vuepress/plugin-back-to-top'],//安装不了插件,建议非全局安装vue
       ['@vuepress/google-analytics',
       {
         'ga': 'UA-157837686-3' // UA-00000000-0
@@ -35,7 +35,7 @@ module.exports = {
       },
         sidebar: [
           // 我的计划是从边缘桌面走向内部业务IT维护
-         
+
             {
                 title: '桌维必修业务终端维护',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
@@ -62,21 +62,9 @@ module.exports = {
                 children: [
                   ['/express/bid/gan-wei-man-gs','岗位手册编写格式'],
                   ['/express/bid/gan-wei-man','甲方公司岗位工作手册'],
-                  ['/express/bid/ji-du-bao-gao','驻场IT运维服务季度报告']       
+                  ['/express/bid/ji-du-bao-gao','驻场IT运维服务季度报告']
                 ]
-              },
-              {
-                title: '致社会租房屋檐下打工的我们',   // 必要的
-                collapsable: false, 
-                sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [
-                  ['/express/talk/zufang','社会租房记录'],
-                  ['/express/talk/hr','人力资源与面试者'],
-                  ['/express/notice/ti-analysis','培训机构分析报告（TI Analysis）'],
-                  ['/express/notice/law-sug','解构非规范型服务企业'],
-                  ['/express/notice/3','早期我的驻场经历']
-                ]
-              },    
+              },   
               {
                 title: '电话与主机网络维护',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
@@ -94,7 +82,7 @@ module.exports = {
                   ['/enhance/net/dlsw','代理上网异常排查问题'],
                   ['/express/net/otr.md','其他上网问题']
                 ]
-              },   
+              },
               {
                 title: '主机信息安全',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
@@ -105,11 +93,11 @@ module.exports = {
                   ['/express/secure/blue','永恒之蓝再处理'],
                   ['/express/secure/fwmreg','防火墙邮件拦截与杀软残留项清除'],
                   ['/express/secure/cunchu','存储知识储备'],
-                  ['/express/secure/bgx','业务故障类排查手法'],  
+                  ['/express/secure/bgx','业务故障类排查手法'],
                   ['/express/talk/iandc','关于ITIL及CISSP的想法'],
                   ['/express/notice/support','如何优化桌面维护工作？']
                 ]
-              },         
+              },
               {
                 title: '致谢',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
