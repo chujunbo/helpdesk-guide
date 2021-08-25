@@ -62,9 +62,10 @@ module.exports = {
                 children: [
                   ['/express/bid/gan-wei-man-gs','岗位手册编写格式'],
                   ['/express/bid/gan-wei-man','甲方公司岗位工作手册'],
-                  ['/express/bid/ji-du-bao-gao','驻场IT运维服务季度报告']
+                  ['/express/bid/ji-du-bao-gao','驻场IT运维服务季度报告'],
+                  ['/express/bid/tou-biao-shu','甲方公司桌面运维项目服务（投标书）']
                 ]
-              },   
+              },
               {
                 title: '电话与主机网络维护',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
