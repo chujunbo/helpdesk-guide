@@ -22,6 +22,7 @@ module.exports = {
     ],
     themeConfig: {
       repo: 'https://github.com/hoochanlon/helpdesk-guide/',
+      search: false,
       nav: [
         // { text: '跳转首页', link: '/' },
         { text: '本作品采用by-nc4.0知识协议进行许可', link: 'http://creativecommons.org/licenses/by-nc/4.0/' },
@@ -29,10 +30,6 @@ module.exports = {
       editLinks: false,
       // 自定义编辑链接的文本。默认是 "Edit this page"
       editLinkText: '帮助我们改善内容',
-      algolia: {
-        apiKey: 'cb720d4380fe1a8f6fc0caeaccf225dc',
-        indexName: 'hoochanlon_helpdesk'
-      },
         sidebar: [
           // 我的计划是从边缘桌面走向内部业务IT维护
 
