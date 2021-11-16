@@ -66,7 +66,7 @@ PPT放映方面，在“设计”-“页面设置”中调选4:3比例
 
 设置完这两项，显示正常，投影信息也显示为1024*768了
 
-![image-20211116203700495.png](https://i.loli.net/2021/11/16/bCvSwi9ar3Qk8Vq.png)
+![image-20211116203700495 _1_.png](https://i.loli.net/2021/11/16/TAtbEONKHsCWBUg.jpg)
 
 
 
