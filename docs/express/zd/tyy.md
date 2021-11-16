@@ -59,10 +59,10 @@ PPT放映方面，在“设计”-“页面设置”中调选4:3比例
 
 * **内置显示器->保持横纵比**
 * **数字式电视机（投影仪）->保持横纵比**
+* 
+![image-20211116203451628.png](https://i.loli.net/2021/11/16/cYmjh2F6us3KtR9.png)
 
-![image-20211116203451628.png](https://i.loli.net/2021/11/16/sQvNhP4MbY2OfL5.png)
-
-![image-20211116203509409.png](https://i.loli.net/2021/11/16/Ov2KZt6pLHmBNs8.png)
+![image-20211116203509409.png](https://i.loli.net/2021/11/16/Qs2qW5fuazjc4Ux.png)
 
 设置完这两项，显示正常，投影信息也显示为1024*768了
 
